@@ -1138,4 +1138,3 @@ Power             →  Solar off-grid
 
 *Self-sovereign messaging. Mesh-ready. Off-grid capable.*
 
-*Du_arte ☥ rawmesh — Beira Baixa, Portugal*
