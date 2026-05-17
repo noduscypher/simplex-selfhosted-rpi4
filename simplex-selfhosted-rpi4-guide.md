@@ -1134,7 +1134,22 @@ Power             →  Solar off-grid
 
 ---
 
-☥ walk quietly, ₿ut keep the signal alive ⚡
+⚡ **Lightning:** `trustyflame02@zeuspay.com`
+
+No sats? Carry the signal further: share it, mirror it, translate it, remix it.
+
+---
+
+## ☥ License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+*☥ Walk in silence, ₿ keep the signal alive.*
 
 *Self-sovereign messaging. Mesh-ready. Off-grid capable.*
+
+*₿uilt with love in cooperation with nature.* · 🜁 🜂 ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷ 🜃 🜄
+
 
