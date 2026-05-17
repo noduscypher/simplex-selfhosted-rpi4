@@ -47,6 +47,8 @@ This repository is part of a broader off‑grid communication stack:
 - `mesh-guides` — Meshtastic EU868 documentation (PT/EN/ES)  
 - `tdeck-guides` — T‑Deck / T‑Deck Plus Meshtastic guides  
 - `cyphertools` — applied cryptographic tools and key management notes
+
+
 ⚡ **Lightning:** `trustyflame02@zeuspay.com`
 
 No sats? Carry the signal further: share it, mirror it, translate it, remix it.
