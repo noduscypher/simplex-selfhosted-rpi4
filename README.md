@@ -47,7 +47,18 @@ This repository is part of a broader off‑grid communication stack:
 - `mesh-guides` — Meshtastic EU868 documentation (PT/EN/ES)  
 - `tdeck-guides` — T‑Deck / T‑Deck Plus Meshtastic guides  
 - `cyphertools` — applied cryptographic tools and key management notes
+⚡ **Lightning:** `trustyflame02@zeuspay.com`
 
-## license
+No sats? Carry the signal further: share it, mirror it, translate it, remix it.
 
-This project is distributed under the terms described in the `LICENSE` file in this repository.
+---
+
+## ☥ License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+*☥ Walk in silence, ₿ keep the signal alive.*
+
+*₿uilt with love in cooperation with nature.* · 🜁 🜂 ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷ 🜃 🜄
