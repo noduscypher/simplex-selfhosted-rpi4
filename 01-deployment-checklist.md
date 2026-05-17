@@ -733,3 +733,23 @@ Anota num sítio seguro (password manager + backup encriptado):
 - [ ] Issues encontrados anotados durante deployment
 
 **Próximo:** preenche `validation-report-template.md` com os achados.
+
+---
+
+⚡ **Lightning:** `trustyflame02@zeuspay.com`
+
+No sats? Carry the signal further: share it, mirror it, translate it, remix it.
+
+---
+
+## ☥ License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+*☥ Walk in silence, ₿ keep the signal alive.*
+
+
+*₿uilt with love in cooperation with nature.* · 🜁 🜂 ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷ 🜃 🜄
+
