@@ -381,3 +381,23 @@ ping -c 3 google.com
 | Erro intermitente que resolve com restart | 🔧 Anotar — pode ser bug upstream |
 
 Anota tudo no `validation-report-template.md`.
+
+
+---
+
+⚡ **Lightning:** `trustyflame02@zeuspay.com`
+
+No sats? Carry the signal further: share it, mirror it, translate it, remix it.
+
+---
+
+## ☥ License
+
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+---
+
+*☥ Walk in silence, ₿ keep the signal alive.*
+
+
+*₿uilt with love in cooperation with nature.* · 🜁 🜂 ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷ 🜃 🜄
